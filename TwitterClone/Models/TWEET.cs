@@ -26,5 +26,7 @@ namespace TwitterClone.Models
         public DateTime created { get; set; }
 
         public virtual Person Person { get; set; }
+        
+        
     }
 }
